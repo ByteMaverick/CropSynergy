@@ -41,8 +41,10 @@ The dataset is sourced from **[Kaggle](https://www.kaggle.com/arjuntejaswi/plant
 ✅ **Increases GPU utilization** by ensuring the GPU always has data to process.  
 ✅ **Speeds up training** by avoiding I/O delays.  
 
-
-![Alt Text](Titanic(EDA)/8bba0eee-ffbf-4984-9da7-a6c94bd08ba2.png)
+#### Without Cache 
+![Alt Text](withOp.svg)
+#### With Cache 
+![Alt Text](cached_dataset.svg)
 ### 4️⃣ **Data Augmentation**  
 - **Random flipping and rotation** are applied to prevent overfitting.  
 
@@ -71,8 +73,8 @@ The dataset is sourced from **[Kaggle](https://www.kaggle.com/arjuntejaswi/plant
 - **SparseCategoricalCrossentropy** for multi-class classification.  
 
 ### 3️⃣ **Model Performance**  
-📸 **Training vs. Validation Accuracy**  
-📉 **Training vs. Validation Loss**  
+Training vs. Validation Accuracy and Training vs. Validation Loss  
+![Alt Text](output.png)
 
 ---
 
@@ -110,31 +112,15 @@ The dataset is sourced from **[Kaggle](https://www.kaggle.com/arjuntejaswi/plant
 
 ## 🚀 **Tech Stack**  
 
-| **Category** | **Tools/Technologies** |
-|-------------|------------------|
-| **Programming Languages** | Python, JavaScript |
-| **Deep Learning Framework** | TensorFlow |
-| **Backend Frameworks** | Flask, FastAPI |
-| **Frontend** | HTML, CSS, JavaScript (React/Next.js) |
-| **Deployment** | TensorFlow Lite (Mobile), Docker (Cloud Deployment) |
 
----
+ - **Programming Languages**: Python, JavaScript
+ - **Deep Learning Framework**: TensorFlow 
+ - **Backend Frameworks**: Flask, FastAPI 
+ - **Frontend**: HTML, CSS, JavaScript (React/Next.js) 
+ - **Deployment**: TensorFlow Lite (Mobile), Docker (Cloud Deployment) 
 
-### 🔥 **Improvements in This Version**  
-✅ **Refined problem statement** for clarity.  
-✅ **Better dataset explanation** with reasons for optimizations.  
-✅ **Added tables and bullet points** for improved readability.  
-✅ **Structured project timeline** for better planning.  
-✅ **Tech stack table for quick overview**.  
-
----
 
 ## 📢 **Acknowledgments**  
 - **Dataset:** [PlantVillage Dataset on Kaggle](https://www.kaggle.com/arjuntejaswi/plant-village)  
 - **TensorFlow Documentation:** [TensorFlow API](https://www.tensorflow.org/api_docs/python/tf/keras)  
 - **CNN Basics:** [YouTube - CNN for Image Classification](https://www.youtube.com/watch?v=zfiSAzpy9NM)  
-
----
-
-## 💡 **License**  
-This project is licensed under the **MIT License**. Feel free to modify and use it for your own research! 🚀  
