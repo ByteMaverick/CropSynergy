@@ -101,14 +101,7 @@ Training vs. Validation Accuracy and Training vs. Validation Loss
 - Deploy the **web and mobile application** with the trained model.  
 - Ensure a smooth **user experience** with **fast and accurate predictions**.  
 
----
 
-## 🌟 **Expected Outcomes**  
-✅ **Accurate and Efficient Disease Detection** 📊  
-✅ **Real-Time Mobile and Web Integration** 📱  
-✅ **Scalable to Other Crops in the Future** 🌱  
-
----
 
 ## 🚀 **Tech Stack**  
 
