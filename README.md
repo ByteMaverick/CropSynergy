@@ -6,6 +6,8 @@ This project aims to **develop an application** that enables **farmers to detect
 
 The ultimate goal is to **build a unified model** that can classify multiple vegetable diseases and deploy it as an easy-to-use **mobile or web application**.
 
+The dataset is sourced from **[Kaggle](https://www.kaggle.com/arjuntejaswi/plant-village)**.
+
 ---
 
 ## 📅 Project Timeline  
@@ -56,7 +58,7 @@ The ultimate goal is to **build a unified model** that can classify multiple veg
 
 ## 🚀 Tech Stack  
 - **Programming Languages:** Python, JavaScript  
-- **Frameworks:** TensorFlow, Flask / FastAPI  
+- **Frameworks:** TensorFlow, FastAPI  
 - **Frontend:** HTML, CSS, JavaScript (React/Next.js)  
 - **Deployment:** TensorFlow Lite (Mobile), Docker (Cloud Deployment)  
 
