@@ -1,4 +1,4 @@
-# 🌿 **Vegetable Disease Classification** 🦠  
+#  **Vegetable Disease Classification** 
 
 ## 📌 **Problem Statement**  
 Agricultural diseases significantly impact crop yields, leading to **economic losses** for farmers.  
